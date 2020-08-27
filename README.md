@@ -31,4 +31,9 @@ Hvordan kan man sikre beskyttelsen af truede dyrearter gennem automatiseret over
 | abcaaaaaaaaaaa | bcde     |
 | abde           | eqddaaaa |
 
-` func fact(a) { if (!a) return 1; return a + fact(a - 1); }`
+```
+func fact(a) {
+    if (!a) return 1;
+    return a * fact(a - 1);
+}
+```

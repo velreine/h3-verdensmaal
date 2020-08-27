@@ -1,11 +1,24 @@
-"En problemformulering fokuserer din problemstilling"
+> "en problemstilling fokuserer din problemstilling".toSpongebob();
+> "EN probLEMFoRmULErING fOKuSErer dIN prObLEmSTiLlING"
 
-Problemstilling:
 
-https://verdensbedstenyheder.dk/verdensmaal/livet-paa-land/:
-
+"Residents in Bolivia’s Sena community say that they can sell a jaguar fang for about $215 on the Chinese market.
 "
-Verdens natur og dyreliv er under hårdt pres: Siden 1970 er halvdelen af 
+~Kilde: https://news.mongabay.com/2018/01/fang-trafficking-to-china-is-putting-bolivias-jaguars-in-jeopardy/
+
+"Forskerne konkluderer, at der er sket en »dramatisk nedgang« i bestanden af de store planteædere,
+og omkring 60 procent af arterne er truet med udryddelse.
+[...]
+[William J. Ripple] står bag den nye undersøgelse, som påpeger, at de store planteædere spiller en vigtig rolle i både lokalsamfund og økosystemer - hvis dyrene forsvinder, 
+vil det have »enorme økologiske og sociale omkostninger,« konkluderer forskerne i undersøgelsen, som er publiceret i det videnskabelige tidsskrift Science Advances.
+[...]
+Mange af dyrene jages, fordi lokale beboere simpelthen har brug for mad, mens andre jages, fordi de ligesom næsehornet kan sælges til høje priser på det internationale marked.
+Eksempelvis dræbes giraffer på grund af deres skind, flodheste på grund af deres elfenbenstænder og gorillaer på grund af deres hoveder, hænder og fødder, lyder det fra forskerne.
+"
+~Kilde: https://videnskab.dk/miljo-naturvidenskab/krybskytteri-naesehorn-og-elefanter-pa-randen-af-udryddelse
+
+
+"Verdens natur og dyreliv er under hårdt pres: Siden 1970 er halvdelen af 
 alle verdens vilde dyr forsvundet. 
 
 Årsagen er både, at mennesker har jaget 
@@ -15,20 +28,47 @@ eller mindre ødelagt.
 De livsvigtige planter og svampe er også på retur mange steder,
  fordi folk rydder jorden til fordel for kvæg eller afgrøder.
 "
+~Kilde: https://verdensbedstenyheder.dk/verdensmaal/livet-paa-land/
 
 
-Hvad kan man gøre for at stoppe krybskytteri
+
+Problemstilling:
+
+Verdens natur og dyreliv er under hårdt pres. Siden 1970 er halvdelen af alle verdens vilde dyr forsvundet.
+Store planteædere som f.eks. næsehorn og elefanter har set et dramatisk fald i antal på grund af krybskytteri og omkring 60% af disse arter er truet med udryddelse.
+Mange af dyrene jages, fordi lokale beboere simpelthen har brug for mad, mens andre jages, fordi de ligesom næsehornet kan sælges til høje priser på det internationale marked,
+og at deres naturlige levesteder er blevet ødelagt på grund af udvidelse af landbrugsarealer, og beboelsesområder.
+I lande som f.eks. Bolivia, bliver der jaget og solgt dele fra jaguarer, fordi disse dele er eftertragtet i kina, til f.eks. natur-medicin.
+Nogle natur-reservator er des
+
+"https://www.petaasia.com/news/bolivian-jaguar-population-at-risk-poaching-for-pendants/"
+
 
 Problemformulering:
 
-H̶v̶o̶r̶d̶a̶n̶ k̶a̶n̶ m̶a̶n̶ b̶e̶k̶æ̶m̶p̶e̶ k̶r̶y̶b̶s̶k̶y̶t̶t̶e̶r̶i̶,̶
- -̶o̶g̶ s̶t̶o̶p̶p̶e̶ i̶n̶v̶a̶s̶i̶v̶e̶ a̶r̶t̶e̶r̶ f̶r̶a̶ a̶t̶ b̶r̶e̶d̶d̶e̶ s̶i̶g̶ f̶o̶r̶ a̶t̶ b̶e̶h̶o̶l̶d̶e̶ b̶i̶o̶d̶i̶v̶e̶r̶s̶i̶t̶e̶t̶e̶n̶.̶
-
-Hvordan kan man sikre beskyttelsen af troede dyerarter og sørge 
-for at krybskytter bliver gjort ukampsdygtige, 
-og hvordan kan man gøre dette på en automatiseret og energivenlig metode.
+Hvordan kan man sikre beskyttelsen af truede dyrearter gennem automatiseret overvågning af områder og recognition software,
+og hvordan kan man gøre dette på en effektiv manér uden at skulle tage højde for de begrænsninger og komprimerende forhold der kan være ved at bruge manuel arbejdskraft,
+samt hvilke metoder og teknologier kan vi føre i brug for at beskytte dyr og overvåge store områder ligegyldigt vejr- og lysforhold.
 
 
-Hvordan kan man sikre beskyttelsen af truede dyrearter gennem automatiseret overvågning af området som dyerne opholder sig på
 
 
+
+
+🦜
+🦖
+🐱‍🐉
+👌🏿 
+Delmål:
+* 15.1 Bevar og genopret økosystemet på land og i ferskvand ❌
+* 15.2 Stop skovrydning og genopret ødelagt skove. ❌
+* 15.3 Stop ørkendannelse og genopret udpint jord ❌
+* 15.4 Bevar økosystemet i bjergene ❌
+* 15.5 Beskyt biodiversitet og naturlige levesteder ❌
+* 15.6 Giv adgang til genetiske ressourcer og fair fordeling af fordelene ❌
+* 15.7 Stop krybskytteri og ulovlig handel med beskyttede arter ✅
+* 15.8 Stop invasive arter fra at brede sig ✅
+* 15.9 Tag hensyn til Økosystemer og Biodiversitet i regeringernes planlægning. ❌
+* 15.a Større finansiering for at bevare og bruge økosystemet og biodiversitet bæredygtigt skovrydning ❌
+* 15.b Finansier og skab incitament til bæredygtigt skovbrug. ❌
+* 15.c Bekæmp globalt krybskytteri og ulovlig handel med beskyttede arter. ❓
