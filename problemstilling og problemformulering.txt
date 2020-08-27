@@ -21,7 +21,7 @@ Eksempelvis dræbes giraffer på grund af deres skind, flodheste på grund af de
 "Verdens natur og dyreliv er under hårdt pres: Siden 1970 er halvdelen af 
 alle verdens vilde dyr forsvundet. 
 
-Årsagen er både, at mennesker har jaget 
+Årsagen er både, at mennesker har jaget
 og dræbt for mange af dyrene, og at deres naturlige levesteder er blevet mere
 eller mindre ødelagt.
  
@@ -30,19 +30,22 @@ De livsvigtige planter og svampe er også på retur mange steder,
 "
 ~Kilde: https://verdensbedstenyheder.dk/verdensmaal/livet-paa-land/
 
+"Because of the remote location and large size of the natural reserves on which the jaguars are hunted and killed—and because,
+according to a report, in 2016, there were only 12 park rangers employed to monitor the entire area—it’s not difficult for traffickers
+ to hunt and kill jaguars and smuggle their body parts out of the country."
+"https://www.petaasia.com/news/bolivian-jaguar-population-at-risk-poaching-for-pendants/"
 
 
 Problemstilling:
 
 Verdens natur og dyreliv er under hårdt pres. Siden 1970 er halvdelen af alle verdens vilde dyr forsvundet.
-Store planteædere som f.eks. næsehorn og elefanter har set et dramatisk fald i antal på grund af krybskytteri og omkring 60% af disse arter er truet med udryddelse.
+Store planteædere, som f.eks. næsehorn og elefanter, har set et dramatisk fald i antal på grund af krybskytteri og omkring 60% af disse arter er truet med udryddelse.
 Mange af dyrene jages, fordi lokale beboere simpelthen har brug for mad, mens andre jages, fordi de ligesom næsehornet kan sælges til høje priser på det internationale marked,
 og at deres naturlige levesteder er blevet ødelagt på grund af udvidelse af landbrugsarealer, og beboelsesområder.
-I lande som f.eks. Bolivia, bliver der jaget og solgt dele fra jaguarer, fordi disse dele er eftertragtet i kina, til f.eks. natur-medicin.
-Nogle natur-reservator er des
-
-"https://www.petaasia.com/news/bolivian-jaguar-population-at-risk-poaching-for-pendants/"
-
+I lande som f.eks. Bolivia, bliver der jaget og solgt dele fra jaguarer, fordi disse dele er eftertragtet i lande som Kina, til f.eks. natur-medicin, 
+hvilket er med til at drive handlen og efterspørgslen af de truede dyrearter.
+Nogle natur-reservater er desværre også underbemandet til en sådan grad at der kan være så lidt som én park-ranger til 100 kvadratkilometer (svarende til ca. 14000 fodboldbaner), 
+og i disse tilfælde ville der ikke være en jordisk chance for denne ene person at kunne stoppe alle krybskytter.
 
 Problemformulering:
 
