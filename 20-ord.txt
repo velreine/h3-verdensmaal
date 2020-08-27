@@ -1,0 +1,86 @@
+Farver:
+Heat seeking kamara?? inferød til at finde personer
+
+Blå:
+Farveskud, ligesom man gør med penge, så man kan tracke dem der er ramt
+^ DNA spray?
+
+Himmel:
+Drone der flyver ud/følger efter den markerede person
+
+Skyer:
+Data/billeder kan uploades til skyen (cloud)
+
+Mad:
+Så vi har noget at spise
+
+Vand:
+Vandkanoner?
+
+Sodavand:
+Så vi har noget at drikke
+
+
+Co2-Udslip:
+Bruge Co2 neutrale materialer til at lade evt. drone og overvågning og bruge naturgasser til geværet
+
+Drivhus:
+Så vi kan gro vores egen mad til bevarelse af døende plante-arter
+
+Varmt:
+Det modsatte af heat seeking??
+
+
+Raketvidenskab:
+
+
+Rumkolonisering:
+
+
+Sygdom:
+En drone der sprayer AIDS ind i øjen-æblet på Krybskytter og invasive dyrearter.
+
+Kloakker:
+
+
+Affaldssortering:
+
+
+Mikrober:
+
+
+Udvikling:
+
+
+Smartcards:
+
+
+Low-Energy:
+Måske små elektroniske apparater der kan hjælpe os,
+kan  muligvis være forsynet gennem solceller.
+
+Risc (Reduced Instruction Set Computer):
+
+
+
+Ideer:
+
+tårn med kamara der kan rotere, som "scanner" efter mennesker og og markere dem, hvor man på en hjemmeside kan give tilladelse til at lyse/skyde den markerede
+
+
+facial/object recognition => sendes til en server som processesere billedet
+embedded controllers
+controller hjemmeside
+central processing
+precise targeting
+
+
+
+Ideer til esktra features:
+
+drone der flyver ud til den markerede person/ting
+drone der flyver rundt efter koordinater og pinger, hvis den finder noget
+droner => område-baseret rapportering dvs. droner udregner deres rute baseret på batteri/hvor andre droner har værret/
+
+
+ taget
